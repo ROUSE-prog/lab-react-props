@@ -58,7 +58,7 @@ header p {
 .sidebar {
   background: var(--light);
   border-radius: 5px;
-  padding: 10px;
+  padding: 20px;
   text-align: center;
 }
 
